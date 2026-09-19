@@ -1,0 +1,12 @@
+{
+  "name": "agile-mastery",
+  "version": "1.0.0",
+  "description": "Ruta de Maestría Senior, Staff & Tech Lead en Metodologías Ágiles, Scrum, Kanban, Ley de Little y XP",
+  "type": "module",
+  "scripts": {
+    "agile:sim:01": "tsx tracks/05-simulations-and-tools/01-littles-law-and-wip-limits.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13"
+  }
+}
