@@ -2,6 +2,16 @@
 
 Repositorio maestro de referencia técnica profunda para **Tech Leads, Staff Engineers, Scrum Masters y Engineering Managers** en **Metodologías Ágiles, Scrum Framework en Profundidad, Flujo Kanban, Métricas de Flujo (Ley de Little), Cynefin Framework y Prácticas de Ingeniería Extreme Programming (XP)**.
 
+---
+
+## 🎯 Preguntas de Entrevista Técnica
+
+Para preparar entrevistas técnicas y de liderazgo de ingeniería (**Tech Lead, Staff Engineer, Scrum Master, Agile Coach y Engineering Manager**), este módulo incluye la guía:
+
+👉 **[Las 100 Preguntas Más Comunes en Entrevistas Técnicas: Agile & Delivery](./INTERVIEW-QUESTIONS.md)** (Scrum Guide 2020, Kanban & Little's Law, XP, Cynefin, Team Topologies, con criterios 🚩 *Red Flags* vs 🟢 *Green Flags*).
+
+---
+
 ## 🌐 The Mastery Suite (Ecosistema Modular)
 
 | Repositorio | Especialidad Técnica | Enlace |
